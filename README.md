@@ -13,7 +13,6 @@ I'm a curious coder from Sweden who enjoys building real stuff — not just toy 
 
 - **FlintAPI** – A lightweight web framework in Rust (FastAPI vibes)
 - **RustCord** – A desktop chat app like Discord, built with Tauri + Rust + React
-- **TFS Port** – Rewriting The Forgotten Server from C++ to Rust (yes, seriously!)
 
 ## 🎯 Goals
 
