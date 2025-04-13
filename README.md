@@ -1,34 +1,30 @@
-## Hi there 👋
+# 👋 Hey there!
 
-# 👋 Hello there!
+I'm a curious coder from Sweden who enjoys building real stuff — not just toy projects. I like solving problems with code, especially when it involves automation, systems programming, or just making life a bit easier.
 
-I'm a passionate developer from Sweden who loves building things that make life easier. My main interests lie in **process automation**, **systems programming**, and crafting well-structured software from scratch.
+## ⚙️ What I’m into
 
-## 💻 Tech I Work With
+- 🦀 Rust – My favorite tool for building fast and reliable systems
+- 🖥️ Automation – I love automating workflows and annoying tasks
+- 🌍 Fullstack – Backend, frontend, whatever gets the job done
+- 🧪 Learning by building – I learn best by creating real-world projects
 
-- 🦀 **Rust** – My go-to language for performance and systems programming.
-- ⚙️ **Automation & Scripting** – I enjoy automating workflows and repetitive tasks.
-- 🌐 **Fullstack Development** – From backend APIs to modern frontend interfaces.
-- 🧪 **Experimentation** – Always exploring new tools, frameworks, and ideas.
+## 🚧 What I’m working on
 
-## 🔧 Current Projects
+- **FlintAPI** – A lightweight web framework in Rust (FastAPI vibes)
+- **RustCord** – A desktop chat app like Discord, built with Tauri + Rust + React
+- **TFS Port** – Rewriting The Forgotten Server from C++ to Rust (yes, seriously!)
 
-- 🚀 **FlintAPI** – A lightweight, Rust-based web framework inspired by FastAPI and Flask.
-- 💬 **RustCord** – A Discord-style desktop chat app built with Tauri, React, and Rust.
+## 🎯 Goals
 
-## 📚 Learning Goals
+- Get really good at Rust and systems design
+- Build projects I’d actually use
+- Keep learning and have fun doing it
 
-- Deepen my knowledge in **low-level systems** and **Rust**.
-- Build a **long-term, real-world software project** from scratch – not just toy examples.
-- Sharpen my skills in **software architecture and design**.
+## 📫 Let's connect
 
-## 📫 Get in Touch
+If you’re into Rust, automation, or want to chat about nerdy stuff – feel free to reach out!
 
-Feel free to reach out if you share similar interests, want to collaborate, or just want to say hi!
-
----
-
-Thanks for visiting my GitHub profile! 🚀
 
 
 <!--
