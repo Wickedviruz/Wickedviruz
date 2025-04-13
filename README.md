@@ -2,6 +2,15 @@
 
 I'm a curious coder from Sweden who enjoys building real stuff — not just toy projects. I like solving problems with code, especially when it involves automation, systems programming, or just making life a bit easier.
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wickedviruz&show_icons=true&theme=tokyonight&hide_title=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wickedviruz&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Wickedviruz&theme=tokyonight)
+
+
 ## ⚙️ What I’m into
 
 - 🦀 Rust – My favorite tool for building fast and reliable systems
